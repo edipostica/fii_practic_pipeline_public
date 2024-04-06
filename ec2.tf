@@ -118,4 +118,4 @@ resource "aws_security_group" "ssm_and_http" {
   tags = {
     Name = "ssm-http"
   }
-# }
+}
